@@ -19,6 +19,10 @@ Configurar workspace del proyecto
 
 -[x] VS Code instalado y funcional
 -[x] Carpeta del proyecto creada
+-[x] Workspace abierto correctamente
+-[x] Archivo de prueba creado
+-[x] Terminal funcional
+
 
 ## 2 — Configurar Prettier
 
