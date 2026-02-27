@@ -5,7 +5,9 @@ Acabas de ser contratado como Desarrollador Junior en NextGen Web Solutions. Tu 
 
 Objetivo: Tener un entorno de desarrollo optimizado y homogéneo.
 
+
 Fecha objetivo: Sprint 1
+
 
 Issues
 
@@ -15,6 +17,9 @@ Instalar VS Code
 
 Configurar workspace del proyecto
 
+-[x] VS Code instalado y funcional
+-[x] Carpeta del proyecto creada
+
 ## 2 — Configurar Prettier
 
 Instalar extensión
@@ -22,6 +27,9 @@ Instalar extensión
 Crear .prettierrc
 
 Activar format on save
+
+-[ ]
+-[ ]
 
 ## 3 — Configurar ESLint
 
@@ -31,17 +39,28 @@ Crear configuración base
 
 Integrar con VS Code
 
+-[ ]
+-[ ]
+
+
 ## 4 — Añadir EditorConfig
 
 Crear .editorconfig
 
 Definir reglas estándar
 
+-[ ]
+-[ ]
+
+
 ## 5 — Documentar setup
 
 Crear README sección “Setup del entorno”
 
-✅ Resultado esperado:
+-[ ]
+
+
+-[ ] Resultado esperado:
 
 Cualquier desarrollador clona el repo y trabaja con el mismo estándar.
 
@@ -50,7 +69,9 @@ Cualquier desarrollador clona el repo y trabaja con el mismo estándar.
 
 Objetivo: Detectar causas reales de lentitud.
 
+
 Fecha objetivo: Sprint 2
+
 
 Issues
 
@@ -62,6 +83,10 @@ Identificar recursos pesados
 
 Capturas evidencias
 
+-[ ]
+-[ ]
+
+
 ## 7 — Identificar recursos bloqueantes
 
 JS render-blocking
@@ -69,6 +94,10 @@ JS render-blocking
 CSS pesado
 
 Requests innecesarias
+
+-[ ]
+-[ ]
+
 
 ## 8 — Auditoría Console
 
@@ -78,6 +107,10 @@ Revisar warnings
 
 Analizar stack traces
 
+-[ ]
+-[ ]
+
+
 ## 9 — Crear informe técnico
 
 Problemas detectados
@@ -86,7 +119,11 @@ Impacto en rendimiento
 
 Recomendaciones
 
-✅ Resultado esperado:
+-[ ]
+-[ ]
+
+
+-[ ] Resultado esperado:
 
 Diagnóstico técnico del problema del cliente.
 
@@ -95,7 +132,9 @@ Diagnóstico técnico del problema del cliente.
 
 Objetivo: Base backend moderna y versionada.
 
+
 Fecha objetivo: Sprint 3
+
 
 Issues
 
@@ -103,11 +142,18 @@ Issues
 
 npm init -y
 
+-[ ]
+-[ ]
+
+
 ## 11 — Crear estructura del proyecto
 
 src/
 config/
 tests/
+
+-[ ]
+-[ ]
 
 ## 12 — Configurar Git
 
@@ -117,17 +163,26 @@ git init
 
 primer commit
 
+-[ ]
+-[ ]
+
 ## 13 — Crear servidor básico
 
 Express o Node HTTP
 
 endpoint /health
 
+-[ ]
+-[ ]
+
 ## 14 — Script npm start
 
 "start": "node src/app.js"
 
-✅ Resultado esperado:
+-[ ]
+-[ ]
+
+-[ ] Resultado esperado:
 
 Microservicio ejecutándose localmente.
 
@@ -141,10 +196,16 @@ Fecha objetivo: Sprint 4
 Issues
 
 ## 15 — Integrar ESLint con npm scripts
+-[ ]
+-[ ]
 
 ## 16 — Añadir Husky (pre-commit hooks)
+-[ ]
+-[ ]
 
 ## 17 — Ejecutar lint antes del commit
+-[ ]
+-[ ]
 
 ## 18 — Mejorar README técnico
 
@@ -154,7 +215,10 @@ ejecución
 
 estándares
 
-✅ Resultado esperado:
+-[ ]
+-[ ]
+
+-[ ] Resultado esperado:
 
 Código protegido contra malas prácticas.
 
@@ -163,11 +227,15 @@ Código protegido contra malas prácticas.
 
 Objetivo: Proyecto listo para evaluación/cliente.
 
+
 Fecha objetivo: Sprint 5
+
 
 Issues
 
 # 19 — Informe final auditoría
+-[ ]
+-[ ]
 
 ## 20 — Documentación Scrum
 
@@ -177,14 +245,23 @@ sprints
 
 retrospectiva
 
+-[ ]
+-[ ]
+
 ## 21 — Demo funcional
 
 ejecutar microservicio
 
 mostrar herramientas configuradas
 
+-[ ]
+-[ ]
+
 ## 22 — Preparar entrega ASIR
 
-✅ Resultado esperado:
+-[ ]
+-[ ]
+
+-[ ] Resultado esperado:
 
 Proyecto profesional documentado.
