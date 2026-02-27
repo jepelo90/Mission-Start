@@ -1,2 +1,5 @@
-console.log("Workspace funcionando correctamente")
+console.log('Workspace funcionando correctamente');
 
+function hola() {
+  console.log('hola mundo');
+}
